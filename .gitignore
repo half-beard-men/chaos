@@ -1,0 +1,25 @@
+# OSX
+.DS_STORE
+**/.DS_Store
+
+# Static
+dist/
+docs/
+build/
+
+# Cache
+**/.cache/**
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Tests
+coverage/
+
+# VS Code
+.vs
+.cache
+.vscode

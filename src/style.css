@@ -1,0 +1,23 @@
+.tabla th,
+.tabla td {
+  width: 70px;
+  height: 70px;
+}
+
+.selector {
+  width: 70px;
+  height: 70px;
+}
+
+.selector[data-value="1"] {
+  color: red;
+  background-color: red;
+}
+.selector[data-value="2"] {
+  color: yellow;
+  background-color: yellow;
+}
+.selector[data-value="3"] {
+  color: green;
+  background-color: green;
+}

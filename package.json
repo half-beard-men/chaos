@@ -1,0 +1,20 @@
+{
+  "name": "chaos",
+  "version": "1.0.0",
+  "description": "Chaos academy",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/half-beard-men/chaos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/half-beard-men/chaos/issues"
+  },
+  "homepage": "https://github.com/half-beard-men/chaos#readme"
+}
