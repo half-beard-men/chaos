@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/half-beard-men/chaos/issues"
   },
-  "homepage": "https://github.com/half-beard-men/chaos#readme"
+  "homepage": "https://github.com/half-beard-men/chaos#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
